@@ -1,4 +1,4 @@
-# React Pokedex - This is an exercise project that lets you pratice using React components and properties.
+# React Pokedex
 
 [Pokedex](https://react-pokodex.netlify.com/) is a random pokemon game built as an exercise for this [tutorial](https://www.udemy.com/course/modern-react-bootcamp/).
 
