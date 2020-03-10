@@ -38,8 +38,8 @@ npm run start
 
 You can contact me at:
 
-- [Portfolio](www.shivamkaushik.com)
-- [Email](shivamkaushikofficial@gmail.com)
+- [Portfolio](https://www.shivamkaushik.com)
+- [Email](mailto:shivamkaushikofficial@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/kshivamdev/)
 - [Twitter](https://twitter.com/kShivamDev)
 - [Medium](https://medium.com/@shivamkaushikofficial)
